@@ -1,0 +1,26 @@
+{
+  "name": "svg-plotter",
+  "version": "1.0.0",
+  "description": "svg chart maker",
+  "main": "index.ts",
+  "scripts": {
+    "version": "npm pkg get version"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/MUmarShahbaz/SVG-Plotter.git"
+  },
+  "keywords": [
+    "svg",
+    "chart",
+    "plotter",
+    "graphs",
+    "data-visualisation"
+  ],
+  "author": "MUmarShahbaz",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/MUmarShahbaz/SVG-Plotter/issues"
+  },
+  "homepage": "https://github.com/MUmarShahbaz/SVG-Plotter#readme"
+}
